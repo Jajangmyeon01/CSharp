@@ -1,0 +1,14 @@
+C:\Users\reana\source\repos\C#Ep1\C#Ep1\bin\Debug\C#Ep1.exe.config
+C:\Users\reana\source\repos\C#Ep1\C#Ep1\bin\Debug\C#Ep1.exe
+C:\Users\reana\source\repos\C#Ep1\C#Ep1\bin\Debug\C#Ep1.pdb
+C:\Users\reana\source\repos\C#Ep1\C#Ep1\obj\Debug\C#Ep1.csproj.AssemblyReference.cache
+C:\Users\reana\source\repos\C#Ep1\C#Ep1\obj\Debug\C#Ep1.csproj.CoreCompileInputs.cache
+C:\Users\reana\source\repos\C#Ep1\C#Ep1\obj\Debug\C#Ep1.exe
+C:\Users\reana\source\repos\C#Ep1\C#Ep1\obj\Debug\C#Ep1.pdb
+C:\Users\reana\source\repos\CsharpBasicSDPT\C#Ep1\C#Ep1\bin\Debug\C#Ep1.exe.config
+C:\Users\reana\source\repos\CsharpBasicSDPT\C#Ep1\C#Ep1\bin\Debug\C#Ep1.exe
+C:\Users\reana\source\repos\CsharpBasicSDPT\C#Ep1\C#Ep1\bin\Debug\C#Ep1.pdb
+C:\Users\reana\source\repos\CsharpBasicSDPT\C#Ep1\C#Ep1\obj\Debug\C#Ep1.csproj.AssemblyReference.cache
+C:\Users\reana\source\repos\CsharpBasicSDPT\C#Ep1\C#Ep1\obj\Debug\C#Ep1.csproj.CoreCompileInputs.cache
+C:\Users\reana\source\repos\CsharpBasicSDPT\C#Ep1\C#Ep1\obj\Debug\C#Ep1.exe
+C:\Users\reana\source\repos\CsharpBasicSDPT\C#Ep1\C#Ep1\obj\Debug\C#Ep1.pdb
