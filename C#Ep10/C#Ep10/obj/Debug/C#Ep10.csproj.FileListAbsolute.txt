@@ -1,0 +1,7 @@
+D:\repos\C#Ep10\C#Ep10\bin\Debug\C#Ep10.exe.config
+D:\repos\C#Ep10\C#Ep10\bin\Debug\C#Ep10.exe
+D:\repos\C#Ep10\C#Ep10\bin\Debug\C#Ep10.pdb
+D:\repos\C#Ep10\C#Ep10\obj\Debug\C#Ep10.csproj.AssemblyReference.cache
+D:\repos\C#Ep10\C#Ep10\obj\Debug\C#Ep10.csproj.CoreCompileInputs.cache
+D:\repos\C#Ep10\C#Ep10\obj\Debug\C#Ep10.exe
+D:\repos\C#Ep10\C#Ep10\obj\Debug\C#Ep10.pdb
