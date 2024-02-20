@@ -1,0 +1,7 @@
+D:\repos\C#Ep9\C#Ep9\bin\Debug\C#Ep9.exe.config
+D:\repos\C#Ep9\C#Ep9\bin\Debug\C#Ep9.exe
+D:\repos\C#Ep9\C#Ep9\bin\Debug\C#Ep9.pdb
+D:\repos\C#Ep9\C#Ep9\obj\Debug\C#Ep9.csproj.AssemblyReference.cache
+D:\repos\C#Ep9\C#Ep9\obj\Debug\C#Ep9.csproj.CoreCompileInputs.cache
+D:\repos\C#Ep9\C#Ep9\obj\Debug\C#Ep9.exe
+D:\repos\C#Ep9\C#Ep9\obj\Debug\C#Ep9.pdb
