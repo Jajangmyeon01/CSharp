@@ -1,0 +1,7 @@
+D:\repos\C#Ep8\C#Ep8\bin\Debug\C#Ep8.exe.config
+D:\repos\C#Ep8\C#Ep8\bin\Debug\C#Ep8.exe
+D:\repos\C#Ep8\C#Ep8\bin\Debug\C#Ep8.pdb
+D:\repos\C#Ep8\C#Ep8\obj\Debug\C#Ep8.csproj.AssemblyReference.cache
+D:\repos\C#Ep8\C#Ep8\obj\Debug\C#Ep8.csproj.CoreCompileInputs.cache
+D:\repos\C#Ep8\C#Ep8\obj\Debug\C#Ep8.exe
+D:\repos\C#Ep8\C#Ep8\obj\Debug\C#Ep8.pdb
