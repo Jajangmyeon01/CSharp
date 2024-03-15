@@ -1,0 +1,7 @@
+D:\repos\C#Ep17\C#Ep17\bin\Debug\C#Ep17.exe.config
+D:\repos\C#Ep17\C#Ep17\bin\Debug\C#Ep17.exe
+D:\repos\C#Ep17\C#Ep17\bin\Debug\C#Ep17.pdb
+D:\repos\C#Ep17\C#Ep17\obj\Debug\C#Ep17.csproj.AssemblyReference.cache
+D:\repos\C#Ep17\C#Ep17\obj\Debug\C#Ep17.csproj.CoreCompileInputs.cache
+D:\repos\C#Ep17\C#Ep17\obj\Debug\C#Ep17.exe
+D:\repos\C#Ep17\C#Ep17\obj\Debug\C#Ep17.pdb
