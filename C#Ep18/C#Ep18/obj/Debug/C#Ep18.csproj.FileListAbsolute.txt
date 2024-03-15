@@ -1,0 +1,7 @@
+D:\repos\C#Ep18\C#Ep18\bin\Debug\C#Ep18.exe.config
+D:\repos\C#Ep18\C#Ep18\bin\Debug\C#Ep18.exe
+D:\repos\C#Ep18\C#Ep18\bin\Debug\C#Ep18.pdb
+D:\repos\C#Ep18\C#Ep18\obj\Debug\C#Ep18.csproj.AssemblyReference.cache
+D:\repos\C#Ep18\C#Ep18\obj\Debug\C#Ep18.csproj.CoreCompileInputs.cache
+D:\repos\C#Ep18\C#Ep18\obj\Debug\C#Ep18.exe
+D:\repos\C#Ep18\C#Ep18\obj\Debug\C#Ep18.pdb
