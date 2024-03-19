@@ -1,0 +1,7 @@
+D:\repos\C#Ep19\C#Ep19\bin\Debug\C#Ep19.exe.config
+D:\repos\C#Ep19\C#Ep19\bin\Debug\C#Ep19.exe
+D:\repos\C#Ep19\C#Ep19\bin\Debug\C#Ep19.pdb
+D:\repos\C#Ep19\C#Ep19\obj\Debug\C#Ep19.csproj.AssemblyReference.cache
+D:\repos\C#Ep19\C#Ep19\obj\Debug\C#Ep19.csproj.CoreCompileInputs.cache
+D:\repos\C#Ep19\C#Ep19\obj\Debug\C#Ep19.exe
+D:\repos\C#Ep19\C#Ep19\obj\Debug\C#Ep19.pdb
