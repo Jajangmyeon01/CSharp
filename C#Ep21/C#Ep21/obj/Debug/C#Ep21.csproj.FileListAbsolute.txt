@@ -1,0 +1,7 @@
+D:\repos\C#Ep21\C#Ep21\bin\Debug\C#Ep21.exe.config
+D:\repos\C#Ep21\C#Ep21\bin\Debug\C#Ep21.exe
+D:\repos\C#Ep21\C#Ep21\bin\Debug\C#Ep21.pdb
+D:\repos\C#Ep21\C#Ep21\obj\Debug\C#Ep21.csproj.AssemblyReference.cache
+D:\repos\C#Ep21\C#Ep21\obj\Debug\C#Ep21.csproj.CoreCompileInputs.cache
+D:\repos\C#Ep21\C#Ep21\obj\Debug\C#Ep21.exe
+D:\repos\C#Ep21\C#Ep21\obj\Debug\C#Ep21.pdb
