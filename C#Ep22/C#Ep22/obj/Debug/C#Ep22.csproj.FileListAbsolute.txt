@@ -1,0 +1,7 @@
+D:\repos\C#Ep22\C#Ep22\bin\Debug\C#Ep22.exe.config
+D:\repos\C#Ep22\C#Ep22\bin\Debug\C#Ep22.exe
+D:\repos\C#Ep22\C#Ep22\bin\Debug\C#Ep22.pdb
+D:\repos\C#Ep22\C#Ep22\obj\Debug\C#Ep22.csproj.AssemblyReference.cache
+D:\repos\C#Ep22\C#Ep22\obj\Debug\C#Ep22.csproj.CoreCompileInputs.cache
+D:\repos\C#Ep22\C#Ep22\obj\Debug\C#Ep22.exe
+D:\repos\C#Ep22\C#Ep22\obj\Debug\C#Ep22.pdb
