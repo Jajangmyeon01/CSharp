@@ -1,0 +1,7 @@
+D:\repos\C#Ep24\C#Ep24\bin\Debug\C#Ep24.exe.config
+D:\repos\C#Ep24\C#Ep24\bin\Debug\C#Ep24.exe
+D:\repos\C#Ep24\C#Ep24\bin\Debug\C#Ep24.pdb
+D:\repos\C#Ep24\C#Ep24\obj\Debug\C#Ep24.csproj.AssemblyReference.cache
+D:\repos\C#Ep24\C#Ep24\obj\Debug\C#Ep24.csproj.CoreCompileInputs.cache
+D:\repos\C#Ep24\C#Ep24\obj\Debug\C#Ep24.exe
+D:\repos\C#Ep24\C#Ep24\obj\Debug\C#Ep24.pdb
