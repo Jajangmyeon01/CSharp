@@ -1,7 +1,0 @@
-C:\Users\reana\source\repos\C#Ep5\C#Ep5\bin\Debug\C#Ep5.exe.config
-C:\Users\reana\source\repos\C#Ep5\C#Ep5\bin\Debug\C#Ep5.exe
-C:\Users\reana\source\repos\C#Ep5\C#Ep5\bin\Debug\C#Ep5.pdb
-C:\Users\reana\source\repos\C#Ep5\C#Ep5\obj\Debug\C#Ep5.csproj.AssemblyReference.cache
-C:\Users\reana\source\repos\C#Ep5\C#Ep5\obj\Debug\C#Ep5.csproj.CoreCompileInputs.cache
-C:\Users\reana\source\repos\C#Ep5\C#Ep5\obj\Debug\C#Ep5.exe
-C:\Users\reana\source\repos\C#Ep5\C#Ep5\obj\Debug\C#Ep5.pdb

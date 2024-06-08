@@ -1,7 +1,0 @@
-C:\Users\reana\source\repos\C#Ep3\C#Ep3\obj\Debug\C#Ep3.csproj.AssemblyReference.cache
-C:\Users\reana\source\repos\C#Ep3\C#Ep3\obj\Debug\C#Ep3.csproj.CoreCompileInputs.cache
-C:\Users\reana\source\repos\C#Ep3\C#Ep3\bin\Debug\C#Ep3.exe.config
-C:\Users\reana\source\repos\C#Ep3\C#Ep3\bin\Debug\C#Ep3.exe
-C:\Users\reana\source\repos\C#Ep3\C#Ep3\bin\Debug\C#Ep3.pdb
-C:\Users\reana\source\repos\C#Ep3\C#Ep3\obj\Debug\C#Ep3.exe
-C:\Users\reana\source\repos\C#Ep3\C#Ep3\obj\Debug\C#Ep3.pdb
